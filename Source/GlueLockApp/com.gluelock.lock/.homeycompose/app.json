@@ -1,6 +1,6 @@
 {
   "id": "com.gluelock.lock",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": ">=5.0.0",
   "sdk": 3,
   "platforms": [
@@ -10,7 +10,7 @@
     "en": "GlueLock"
   },
   "description": {
-    "en": "GlueLock Press-n-go support"
+    "en": "GlueLock"
   },
   "category": [
     "appliances"
@@ -25,5 +25,7 @@
     "name": "Kim Kokholm",
     "email": "kokholm@gmail.com"
   },
-  "brandColor": "#24384f"
+  "brandColor": "#28323f",
+  "source": "https://github.com/HarpunDK/Homey.Glue",
+  "support": "https://github.com/HarpunDK/Homey.Glue"
 }

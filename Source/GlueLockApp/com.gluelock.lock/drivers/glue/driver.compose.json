@@ -1,6 +1,6 @@
 {
   "name": {
-    "en": "Glue"
+    "en": "Smart Door Lock Pro"
   },
   "class": "lock",
   "capabilities": [
@@ -10,8 +10,13 @@
   "platforms": [
     "local"
   ],
-  "energy":{
-    "batteries": ["AA", "AA", "AA", "AA"]
+  "energy": {
+    "batteries": [
+      "AA",
+      "AA",
+      "AA",
+      "AA"
+    ]
   },
   "connectivity": [],
   "images": {
@@ -23,7 +28,9 @@
     {
       "id": "list_devices",
       "template": "list_devices",
-      "navigation": { "next": "add_devices" }
+      "navigation": {
+        "next": "add_devices"
+      }
     },
     {
       "id": "add_devices",
