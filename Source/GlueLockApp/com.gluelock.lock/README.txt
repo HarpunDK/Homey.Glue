@@ -1,1 +1,1 @@
-Glue - The future of your front door
+The future of your front door
