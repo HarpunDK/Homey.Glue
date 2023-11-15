@@ -27,7 +27,7 @@ class GlueDevice extends Homey.Device {
     // Pull battery status 
     setInterval(() => {
       this.loadCurrentLockState(lockId, glueLockAuth);
-    }, 60 * 60 * 1000 /* pull every hour */);
+    }, 4 * 60 * 60 * 1000 /* pull every hour */);
 
     // Get latest state:
     this.loadCurrentLockState(lockId, glueLockAuth);
