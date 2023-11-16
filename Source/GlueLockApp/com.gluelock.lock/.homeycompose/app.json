@@ -1,6 +1,6 @@
 {
   "id": "com.gluelock.lock",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "compatibility": ">=5.0.0",
   "sdk": 3,
   "platforms": [
@@ -10,7 +10,7 @@
     "en": "GlueLock"
   },
   "description": {
-    "en": "GlueLock"
+    "en": "A simple, super-smart motorised lock that manages your door."
   },
   "category": [
     "appliances"
