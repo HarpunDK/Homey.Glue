@@ -25,6 +25,13 @@
     "name": "Kim Kokholm",
     "email": "kokholm@gmail.com"
   },
+  "contributing": {
+    "donate": {
+      "paypal": {
+        "username": "KimKokholm"
+      }
+    }
+  },
   "brandColor": "#28323f",
   "source": "https://github.com/HarpunDK/Homey.Glue",
   "support": "https://github.com/HarpunDK/Homey.Glue"
