@@ -1,6 +1,6 @@
 {
   "id": "com.gluelock.lock",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "compatibility": ">=5.0.0",
   "sdk": 3,
   "platforms": [
@@ -34,5 +34,6 @@
   },
   "brandColor": "#28323f",
   "source": "https://github.com/HarpunDK/Homey.Glue",
-  "support": "https://github.com/HarpunDK/Homey.Glue"
+  "support": "https://github.com/HarpunDK/Homey.Glue",
+  "homeyCommunityTopicId": 96144
 }
